@@ -1,8 +1,19 @@
 body {
-	background-color: green;
+	background-color: #058B9A;
 }
 p { 
 color: white;
 text-align: center;
 font-size: 20px
 }
+h1{
+  font-family: "Courier New";
+  color: #55EFBB
+}
+button {
+   border-radius: 50%;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+   padding: 15px 20px;
+   background-color: #55EFBB; 
+}
+
